@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Tester {
     public static void main(String[] args){
-	int[] a = {1,3,2,1};
+	/*int[] a = {1,3,2,1};
 	int[][] b = {{1,1,1},{2,2,2},{3,2,3}};
 	int[][] E = {{2,4,2},{2,2,2}}; 
 	System.out.println(ArrayOps.largest(a));
@@ -21,6 +21,6 @@ public class Tester {
 	    System.out.println((ArrayOps.sumCols(E)[i]));
 	}
 	System.out.println(ArrayOps.isLocationMagic(E, 0, 1));
-	System.out.println(ArrayOps.isLocationMagic(E, 1, 1));
+	System.out.println(ArrayOps.isLocationMagic(E, 1, 1));*/
     }
 }
